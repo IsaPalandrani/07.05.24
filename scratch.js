@@ -210,4 +210,4 @@ function mostrarAvatar(){
         txtMouseX.value = event.pageX;
         txtMouseY.value = event.pageY;
     }
-})
+})();
